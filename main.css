@@ -1,0 +1,186 @@
+* {
+    margin:0; 
+    padding:0;
+    box-sizing:border-box;
+}
+
+.container{
+    width: 79%;
+    height:auto;
+    margin:0 auto;
+}
+
+.navbar img{
+    width:350px;
+    height:30px;
+}
+
+.navbar{
+    margin-top:21px;
+    display:flex;
+    justify-content:space-between;
+}
+
+.menu {
+    width:40%;
+    display:flex;
+}
+.menu a {
+    font-size:21px;
+    text-decoration:none;
+    color:black;
+}
+.menu .link{
+    margin-left:111px;
+   
+    
+}
+
+.father  {
+   
+    height:auto;
+    display:Flex;
+    margin-top:50px;
+}
+
+.father img {
+    width:51px;
+    height:51px;
+}
+.fatherchaild-1{
+    margin-left:20px;
+}
+
+.father .fatherchaild-1 p {
+    font-size:19px;
+}
+.cards{
+ margin: 51px auto;
+ display:flex;
+ 
+}
+.cards-chiald-1{
+ border:3px solid black;
+ width:300px;
+ height:300px;
+ margin-top:10px;
+ text-align:center;
+ margin-left:130px;
+
+}
+.crads-1-chaild-chaild-1{
+    background-color:lightgray;
+    width:100%;
+    height:50px;
+    text-align:center;
+}
+.cards-chiald-1 h1{
+    margin-top:20px;
+}
+.cards-chiald-1 p{
+    margin-top:10px;
+}
+.crads-1-chaild-chaild-2{
+ background-color:#F1C40F;
+ width:111px;
+ height:39px;
+ margin:21px auto;
+ text-align: center;
+ font-size:19px;
+ padding-top:9px;
+}
+
+
+/* transition-duration:1s */
+.crads-1-chaild-chaild-2:hover{
+background-color:orange;
+transition-duration:1s
+}
+.cards-chiald-2{
+    border:3px solid black;
+    width:300px;
+    height:300px;
+    margin-top:10px;
+    text-align:center;
+    margin-left:10px;
+}
+.crads-2-chaild-chaild-1{
+    background-color:lightgray;
+    width:100%;
+    height:50px;
+    text-align:center;
+    margin-top:-231px
+}
+.cards-chiald-2 h1{
+    margin-top:80px;
+}
+.cards-chiald-2 p{
+    margin-top:10px;
+}
+.crads-2-chaild-chaild-2{
+    background-color:#F1C40F;
+ width:111px;
+ height:39px;
+ margin:0 auto;
+ margin-top:194px;
+ text-align: center;
+ font-size:19px;
+ padding-top:9px;
+}
+
+.crads-2-chaild-chaild-2:hover{
+    background-color:orange;
+transition-duration:1s
+}
+
+.cards-chiald-3{
+    border:3px solid black;
+    width:300px;
+    height:300px;
+    margin-top:10px;
+    text-align:center;
+    margin-left:10px;   
+}
+.crads-3-chaild-chaild-1{
+    background-color:lightgray;
+    width:100%;
+    height:50px;
+    text-align:center;
+    margin-top:-231px
+}
+.cards-chiald-3 h1{
+    margin-top:80px;
+}
+.cards-chiald-3 p{
+    margin-top:10px;
+}
+.crads-3-chaild-chaild-2{
+    background-color:#F1C40F;
+    width:111px;
+    height:39px;
+    margin:0 auto;
+    margin-top:194px;
+    text-align: center;
+    font-size:19px;
+    padding-top:9px;
+}
+.crads-3-chaild-chaild-2:hover{
+    background-color:orange;
+transition-duration:1s
+}
+.footer{
+    background-color:#DDDDDD;
+    width:100%;
+    height:100px;
+    margin-top:50px;
+}
+.footer-chiald{
+    
+    margin-left:900px;
+}
+.footer-chiald-1{
+display: flex;
+}
+.footer-chiald-1 h3{
+    margin-left:10px;
+}
